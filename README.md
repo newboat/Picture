@@ -1,2 +1,2 @@
 # Picture
-Picture bed
+没事存点图片
